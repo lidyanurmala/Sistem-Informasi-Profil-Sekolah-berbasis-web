@@ -1,0 +1,11 @@
+.parallax-container{
+    height: 240px;
+}
+.parallax img{
+    filter: grayscale(1);
+    oppacity: 0.5 !important;
+}
+h3{
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
